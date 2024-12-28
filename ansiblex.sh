@@ -8,4 +8,3 @@ sudo apt install ansible -y
 
 #Validate Ansible:
 ansible ---version 
-How to insta
